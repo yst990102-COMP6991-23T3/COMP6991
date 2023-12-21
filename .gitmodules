@@ -10,3 +10,6 @@
 [submodule "venv"]
 	path = venv
 	url = git@github.com:yst990102-COMP6991-23T3/venv.git
+[submodule "Lecture"]
+	path = Lecture
+	url = git@github.com:yst990102-COMP6991-23T3/Lecture.git
