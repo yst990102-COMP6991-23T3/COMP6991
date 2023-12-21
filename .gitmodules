@@ -43,3 +43,30 @@
 [submodule "Lab/Lab-10"]
 	path = Lab/Lab-10
 	url = git@github.com:yst990102-COMP6991-23T3/Lab-10.git
+[submodule "Workshop/Workshop-01"]
+	path = Workshop/Workshop-01
+	url = git@github.com:yst990102-COMP6991-23T3/Workshop-01.git
+[submodule "Workshop/Workshop-02"]
+	path = Workshop/Workshop-02
+	url = git@github.com:yst990102-COMP6991-23T3/Workshop-02.git
+[submodule "Workshop/Workshop-03"]
+	path = Workshop/Workshop-03
+	url = git@github.com:yst990102-COMP6991-23T3/Workshop-03.git
+[submodule "Workshop/Workshop-04"]
+	path = Workshop/Workshop-04
+	url = git@github.com:yst990102-COMP6991-23T3/Workshop-04.git
+[submodule "Workshop/Workshop-05"]
+	path = Workshop/Workshop-05
+	url = git@github.com:yst990102-COMP6991-23T3/Workshop-05.git
+[submodule "Workshop/Workshop-07"]
+	path = Workshop/Workshop-07
+	url = git@github.com:yst990102-COMP6991-23T3/Workshop-07.git
+[submodule "Workshop/Workshop-08"]
+	path = Workshop/Workshop-08
+	url = git@github.com:yst990102-COMP6991-23T3/Workshop-08.git
+[submodule "Workshop/Workshop-09"]
+	path = Workshop/Workshop-09
+	url = git@github.com:yst990102-COMP6991-23T3/Workshop-09.git
+[submodule "Workshop/Workshop-10"]
+	path = Workshop/Workshop-10
+	url = git@github.com:yst990102-COMP6991-23T3/Workshop-10.git
