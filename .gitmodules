@@ -1,3 +1,9 @@
 [submodule "autotest"]
 	path = autotest
 	url = git@github.com:yst990102-COMP6991-23T3/autotest.git
+[submodule "Assignment/Assignment-01"]
+	path = Assignment/Assignment-01
+	url = git@github.com:yst990102-COMP6991-23T3/Assignment-01.git
+[submodule "Assignment/Assignment-02"]
+	path = Assignment/Assignment-02
+	url = git@github.com:yst990102-COMP6991-23T3/Assignment-02.git
