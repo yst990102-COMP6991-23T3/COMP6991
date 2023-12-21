@@ -1,0 +1,57 @@
+Loading...StudentID 5192519
+
+
+ClassKey: 23T3COMP6991
+StudentID: 5192519
+Name: Yuan, Shi Tong                                    
+Program: 8543  
+Plans: COMPCS       
+Login: z5192519
+lab: .
+mark_lab_out_of_20: 20/20
+mark_lab09_total: 2.5/2.5
+mark_lab08_total: 2.5/2.5
+mark_lab07_total: 2.5/2.5
+mark_lab05_total: 2.5/2.5
+mark_lab04_total: 2.5/2.5
+mark_lab03_total: 2.5/2.5
+mark_lab02_total: 2.5/2.5
+mark_lab01_total: 2.5/2.5
+blogs: ./10
+automark_assign02_pars: 99/100
+automark_assign01_rslogo: 96/100
+automark_lab09_myrc: 100/100
+automark_lab09_unsound_unsafe: 100/100
+automark_lab09_rust2c: 100/100
+automark_lab08_send_sync: 100/100
+automark_lab08_webserver: 100/100
+automark_lab08_channels: 100/100
+automark_lab08_train_game: 100/100
+automark_lab07_hooked: 100/100
+automark_lab07_currying: 100/100
+automark_lab07_repetition: 100/100
+automark_lab07_average_macro: 100/100
+automark_lab07_fun_types: 100/100
+automark_lab05_languages: 100/100
+automark_lab05_dungeons_and_dragons: 100/100
+automark_lab05_pointy: 100/100
+automark_lab04_modularity: 100/100
+automark_lab04_vector_operations: 100/100
+automark_lab04_doctor_who: 100/100
+automark_lab03_christmas_tree: 100/100
+automark_lab03_type_lifetimes: 100/100
+automark_lab03_annotate_lifetimes: 100/100
+automark_lab03_pusheen: 100/100
+automark_lab03_my_first_borrow: 100/100
+automark_lab02_data_analysis: 100/100
+automark_lab02_collections: 100/100
+automark_lab02_to_upper: 100/100
+automark_lab02_tribonacci: 100/100
+automark_lab01_io: 100/100
+automark_lab01_picasso: 100/100
+automark_lab01_dall_e_rs: 100/100
+automark_lab01_carnival: 100/100
+automark_lab01_multiverse: 100/100
+automark_lab01_mini_grep: 100/100
+
+
