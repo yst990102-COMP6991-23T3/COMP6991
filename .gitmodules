@@ -13,3 +13,33 @@
 [submodule "Lecture"]
 	path = Lecture
 	url = git@github.com:yst990102-COMP6991-23T3/Lecture.git
+[submodule "Lab/Lab-00"]
+	path = Lab/Lab-00
+	url = git@github.com:yst990102-COMP6991-23T3/Lab-00.git
+[submodule "Lab/Lab-01"]
+	path = Lab/Lab-01
+	url = git@github.com:yst990102-COMP6991-23T3/Lab-01.git
+[submodule "Lab/Lab-02"]
+	path = Lab/Lab-02
+	url = git@github.com:yst990102-COMP6991-23T3/Lab-02.git
+[submodule "Lab/Lab-03"]
+	path = Lab/Lab-03
+	url = git@github.com:yst990102-COMP6991-23T3/Lab-03.git
+[submodule "Lab/Lab-04"]
+	path = Lab/Lab-04
+	url = git@github.com:yst990102-COMP6991-23T3/Lab-04.git
+[submodule "Lab/Lab-05"]
+	path = Lab/Lab-05
+	url = git@github.com:yst990102-COMP6991-23T3/Lab-05.git
+[submodule "Lab/Lab-07"]
+	path = Lab/Lab-07
+	url = git@github.com:yst990102-COMP6991-23T3/Lab-07.git
+[submodule "Lab/Lab-08"]
+	path = Lab/Lab-08
+	url = git@github.com:yst990102-COMP6991-23T3/Lab-08.git
+[submodule "Lab/Lab-09"]
+	path = Lab/Lab-09
+	url = git@github.com:yst990102-COMP6991-23T3/Lab-09.git
+[submodule "Lab/Lab-10"]
+	path = Lab/Lab-10
+	url = git@github.com:yst990102-COMP6991-23T3/Lab-10.git
