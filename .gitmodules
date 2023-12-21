@@ -7,3 +7,6 @@
 [submodule "Assignment/Assignment-02"]
 	path = Assignment/Assignment-02
 	url = git@github.com:yst990102-COMP6991-23T3/Assignment-02.git
+[submodule "venv"]
+	path = venv
+	url = git@github.com:yst990102-COMP6991-23T3/venv.git
